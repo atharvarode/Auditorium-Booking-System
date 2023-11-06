@@ -6,7 +6,7 @@ This is a simple auditorium booking system built using Django, HTML, and CSS.
 <img width="846" alt="home_page" src="https://github.com/atharvarode/Auditorium-Booking-System/assets/97606863/d2d32551-4426-43e6-a7c8-78494a487708">
 
 
--Allows users to view available auditoriums and upcoming events.
+- Allows users to view available auditoriums and upcoming events.
 <img width="568" alt="audi_booking" src="https://github.com/atharvarode/Auditorium-Booking-System/assets/97606863/632aa2ac-a3f1-45c3-b303-171cc1ea607b">
   
 
