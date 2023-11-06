@@ -1,6 +1,6 @@
 # Auditorium Booking System
 
-This is a simple auditorium booking system built using Django, HTML, and CSS.
+This is a simple auditorium booking system built using Django, Java Script , HTML, and CSS.
 
 ## Features
 <img width="846" alt="home_page" src="https://github.com/atharvarode/Auditorium-Booking-System/assets/97606863/d2d32551-4426-43e6-a7c8-78494a487708">
@@ -23,6 +23,7 @@ This is a simple auditorium booking system built using Django, HTML, and CSS.
 - Django
 - HTML
 - CSS
+- Java Script
 
 
 
