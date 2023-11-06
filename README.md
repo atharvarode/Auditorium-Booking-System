@@ -13,6 +13,7 @@ This is a simple auditorium booking system built using Django, HTML, and CSS.
 - Allows users to book available seats in the auditorium for a particular event.
 <img width="521" alt="seat_booking" src="https://github.com/atharvarode/Auditorium-Booking-System/assets/97606863/9368d179-5349-4d28-ac4a-9ffaca75e65a">
 
+
 - Provides an admin interface to manage auditoriums, seats, and bookings.
 <img width="518" alt="admin_dashboard" src="https://github.com/atharvarode/Auditorium-Booking-System/assets/97606863/9b2aef37-b715-4a5e-8242-073b23ad926c">
 
